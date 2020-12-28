@@ -1,0 +1,14 @@
+{
+  "name": "react-native-simple-otp-input",
+  "version": "1.0.0",
+  "description": "Simple otp input for react native . Pure react native package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "redclouds",
+  "license": "MIT",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.64.0"
+  }
+}
